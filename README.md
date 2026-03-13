@@ -1,5 +1,5 @@
 <img src="githubbanner.png" width="100%">
-# Hi 👋 I'm Kartik Awasthi
+<h1>Hi 👋 I'm Kartik Awasthi</h1> 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=BCA+Student;Aspiring+Software+Developer;Web+Development+Learner;Exploring+AI+and+Data+Science&center=true&width=500&height=50">
