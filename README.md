@@ -1,7 +1,4 @@
 <img src="githubbanner.png" width="100%">
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=BCA+Student;Aspiring+Software+Developer;Learning+Web+Development&center=true&width=500&height=50">
-</p>
 # Hi 👋 I'm Kartik Awasthi
 
 <p align="center">
