@@ -65,7 +65,7 @@ Hi 👋 I'm <h1>Kartik Awasthi</h1>
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/kartikey-awasthi-852543343)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/kartikey-awasthi-852543343)
 [![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:kartikawasthi10730@gmail.com)
 
 ---
