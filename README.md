@@ -9,9 +9,9 @@ Hi 👋 I'm <h1>Kartik Awasthi</h1>
 
 ## 👨‍💻 About Me
 
-🎓 BCA Student from India  
-💻 Interested in Software Development  
-📚 Currently learning Web Development  
+🎓 Currently pursuing MCA Degree from Integral University, Lucknow  
+💻 Interested in Data Science  
+📚 Currently learning DSA and Libraries in Python  
 🚀 Exploring AI, Data Analysis, and Programming  
 
 ---
@@ -19,7 +19,6 @@ Hi 👋 I'm <h1>Kartik Awasthi</h1>
 ## 🛠️ Tech Stack
 
 ### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
 
@@ -59,7 +58,7 @@ Hi 👋 I'm <h1>Kartik Awasthi</h1>
 ✔ Build Web Development Projects  
 ✔ Learn Python for Data Analysis  
 ✔ Contribute to Open Source  
-✔ Become a Full Stack Developer  
+✔ Become a Data Analyst/Data Engineer/Data scientist  
 
 ---
 
